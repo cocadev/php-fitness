@@ -1,2 +1,2 @@
-# php-fitness with Eugene
+# php-fitness with Kingofdevs
 php-mariaDB-backend-admin panel
